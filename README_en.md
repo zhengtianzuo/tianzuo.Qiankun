@@ -1,46 +1,46 @@
-<h4 align="right">简体中文 | <strong><a href="README_en.md">English</a></strong></h4>
+<h4 align="right"><strong><a href="README.md">简体中文</a></strong> | English</h4>
 
 ![](img/logo.png)
 
-### 天佐.乾坤袋
+### tianzuo.Qiankun
 
 ![](https://img.shields.io/badge/release-1.0.0.0-blue.svg)
 ![](https://img.shields.io/badge/date-24.1.1-orange.svg)
 
 ||||
 |--|--|--|
-|操作系统|![](https://img.shields.io/badge/os-windows_7+-blue.svg) ![](https://img.shields.io/badge/os-macos_10.14+-lightgrey.svg) ![](https://img.shields.io/badge/os-ubuntu_20.04+-orange.svg) ![](https://img.shields.io/badge/os-android_5.0+-green.svg) ![](https://img.shields.io/badge/os-ios_12.0+-lightgrey.svg)||
-|编译器|![](https://img.shields.io/badge/c++-11-blue.svg) ![](https://img.shields.io/badge/msvc-14.0-blue.svg) ![](https://img.shields.io/badge/msvc-14.1-blue.svg) ![](https://img.shields.io/badge/msvc-14.2-blue.svg) ![](https://img.shields.io/badge/msvc-14.3-blue.svg) ![](https://img.shields.io/badge/ndk-21.3-green.svg) ![](https://img.shields.io/badge/llvm-10.0-lightgrey.svg) ![](https://img.shields.io/badge/gcc-9.4-orange.svg)||
-|编程语言|![](img/C.png) ![](img/C__.png) ![](img/Python.png) ![](img/Java.png) ![](img/C_.png) ![](img/JavaScript.png) ![](img/PHP.png) ![](img/Visual_Basic.png) ![](img/Go.png) ![](img/Rust.png) ![](img/Ruby.png)||
-# 简介
+|operating system|![](https://img.shields.io/badge/os-windows_7+-blue.svg) ![](https://img.shields.io/badge/os-macos_10.14+-lightgrey.svg) ![](https://img.shields.io/badge/os-ubuntu_20.04+-orange.svg) ![](https://img.shields.io/badge/os-android_5.0+-green.svg) ![](https://img.shields.io/badge/os-ios_12.0+-lightgrey.svg)||
+|compiler|![](https://img.shields.io/badge/c++-11-blue.svg) ![](https://img.shields.io/badge/msvc-14.0-blue.svg) ![](https://img.shields.io/badge/msvc-14.1-blue.svg) ![](https://img.shields.io/badge/msvc-14.2-blue.svg) ![](https://img.shields.io/badge/msvc-14.3-blue.svg) ![](https://img.shields.io/badge/ndk-21.3-green.svg) ![](https://img.shields.io/badge/llvm-10.0-lightgrey.svg) ![](https://img.shields.io/badge/gcc-9.4-orange.svg)||
+|programming language|![](img/C.png) ![](img/C__.png) ![](img/Python.png) ![](img/Java.png) ![](img/C_.png) ![](img/JavaScript.png) ![](img/PHP.png) ![](img/Visual_Basic.png) ![](img/Go.png) ![](img/Rust.png) ![](img/Ruby.png)||
+# introduction
 
-![](img/alchemy_tianzuo.Qiankun.jpg)
+![](img_en/alchemy_tianzuo.Qiankun.jpg)
 
-**天佐.乾坤袋** 基于抽屉式文件存储的NoSql数据库，可用于文件打包，数据整合，加密存放等多种用途。可以方便快捷的搭建和部署存储应用的系统。
+**tianzuo.Qiankun** NoSql database based on drawer file storage can be used for file packaging, data integration, encryption storage and other purposes. The storage system can be easily and quickly built and deployed.
 
-**传说:**
-弥勒所有，专做储物之用。拥有不可思议之力，内部有著奇异之空间，空间之大似能将天地收纳于内。袋中另有乾坤，应有尽有，取之不尽。
+**legend:**
+It's owned by Maitreya. It's for storage purposes. With incredible power, there is a strange space inside, a space so large that it seems to contain heaven and earth. There's more in the bag. There's more than enough.
 
-# 目标
-构建一种使用简单接口调用就可以完成数据管理的NoSql数据库。
+# motivation
+Build a NoSql database that can manage data with simple interface calls.
 
-![](img/tianzuo.Qiankun.png)
+![](img_en/tianzuo.Qiankun.png)
 
-# 功能
+# features
 
-- 🧩 集成简单
-- 📦 存放文件可自由选择压缩
-- 🪢 数据经过256位AES算法加密
-- 📒 支持数据批量增加/删除/修改/查询
-- 📃 支持直接获取原始数据流
+- 🧩 simple integration
+- 📦 integrated simple storage files can be compressed freely
+- 🪢 the data is encrypted by 256-bit AES algorithm
+- 📒 data can be added, deleted, modified, or queried in batches
+- 📃 supports direct access to raw data streams
 
-# 截图
+# screenshot
 
-**天佐.乾坤袋测试程序:**
-![](img/screenshot.png)
+**tianzuo.Qiankun Test:**
+![](img_en/screenshot.png)
 
 
-# 例子
+# example
 <details>
   <summary>cpp</summary>
 ```cpp
@@ -1025,32 +1025,31 @@ print("test done -------------------")
 ```
 </details>
 
-# 下载
+# download
 
 |||||
 |--|--|--|--|
-|[![立即下载](img/com_btnGitHub.svg)](https://github.com/zhengtianzuo/tianzuo.Qiankun/releases)|[![立即下载](img/com_btnGitee.svg)](https://gitee.com/zhengtianzuo/tianzuo.Qiankun/releases)|[![立即下载](img/down_baidu.svg)](https://pan.baidu.com/s/1ecnWXCHtFUT0edNqCLwFbQ?pwd=1234)|[![立即下载](img/down_weiyun.svg)](https://share.weiyun.com/TVxOYtJr)|
+|[![download](img/com_btnGitHub.svg)](https://github.com/zhengtianzuo/tianzuo.Qiankun/releases)|[![download](img/com_btnGitee.svg)](https://gitee.com/zhengtianzuo/tianzuo.Qiankun/releases)|[![download](img/down_baidu.svg)](https://pan.baidu.com/s/1ecnWXCHtFUT0edNqCLwFbQ?pwd=1234)|[![download](img/down_weiyun.svg)](https://share.weiyun.com/TVxOYtJr)|
 
-
-# 关于
-## 联系方式
+# about
+## contact
 
 ||||
 |--|--|--|
-|作者|郑天佐||
+|author|zhengtianzuo||
 |QQ|278969898||
-|邮箱|camelsoft@163.com||
-|主页|[http://www.camelstudio.cn](http://www.camelstudio.cn)||
-|博客|[http://blog.csdn.net/zhengtianzuo06](http://blog.csdn.net/zhengtianzuo06)||
+|mailbox|camelsoft@163.com||
+|homepage|[http://www.camelstudio.cn](http://www.camelstudio.cn)||
+|blog|[http://blog.csdn.net/zhengtianzuo06](http://blog.csdn.net/zhengtianzuo06)||
 |github|[https://github.com/zhengtianzuo](https://github.com/zhengtianzuo)||
 |gitee|[https://gitee.com/zhengtianzuo](https://gitee.com/zhengtianzuo)||
-|QQ群|199672080||
+|QQ group|199672080||
 
 ![](img/allinone.png)
 
 ||||||
 |--|--|--|--|--|
-|加QQ好友|加微信好友|扫码提问|微信打赏|支付宝打赏|
+|Add QQ Friends|Add WeChat Friends|Paid Questions|WeChat Sponsor|Alipay Sponsor|
 
 
 

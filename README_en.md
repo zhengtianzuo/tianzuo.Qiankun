@@ -1,6 +1,6 @@
 <h4 align="right"><strong><a href="README.md">简体中文</a></strong> | English</h4>
 
-![](img/logo.png)
+![](img/logo.jpg)
 
 ### tianzuo.Qiankun
 
@@ -1057,9 +1057,9 @@ print("test done -------------------")
 
 ![](img/allinone.png)
 
-||||||
-|--|--|--|--|--|
-|Add QQ Friends|Add WeChat Friends|Paid Questions|WeChat Sponsor|Alipay Sponsor|
+|||||
+|--|--|--|--|
+|Add QQ Friends|Add WeChat Friends|WeChat Sponsor|Alipay Sponsor|
 
 
 

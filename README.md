@@ -1,6 +1,6 @@
 <h4 align="right">简体中文 | <strong><a href="README_en.md">English</a></strong></h4>
 
-![](img/logo.png)
+![](img/logo.jpg)
 
 ### 天佐.乾坤袋
 
@@ -43,7 +43,7 @@
 # 例子
 <details>
   <summary>cpp</summary>
-  
+
 ```cpp
 #include <iostream>
 #include <memory>
@@ -132,7 +132,7 @@ return_error:
 
 <details>
   <summary>python</summary>
-  
+
 ```python
 from ctypes import *
 from enum import Enum
@@ -250,7 +250,7 @@ if __name__ == '__main__':
 
 <details>
   <summary>java</summary>
-  
+
 ```java
 package cn.camelsoft;
 
@@ -366,7 +366,7 @@ public class Main {
 
 <details>
   <summary>csharp</summary>
-  
+
 ```csharp
 
 
@@ -479,7 +479,7 @@ class Program {
 
 <details>
   <summary>javascript</summary>
-  
+
 ```js
 
 Qiankun_errorcode_success           = 0x00000001;   ///<  正确的值
@@ -575,7 +575,7 @@ tianzuo_QiankunLib.tianzuo_QiankunInterface_terminate(qiankun);
 
 <details>
   <summary>php</summary>
-  
+
 ```php
 <?php
 
@@ -677,7 +677,7 @@ echo "test done -------------------" . "\n";
 
 <details>
   <summary>vb</summary>
-  
+
 ```vb
 
 Imports System.Runtime.InteropServices
@@ -789,7 +789,7 @@ End Module
 
 <details>
   <summary>go</summary>
-  
+
 ```go
 package main
 
@@ -884,7 +884,7 @@ func main() {
 
 <details>
   <summary>rust</summary>
-  
+
 ```rust
 
 use std::os::raw::c_char;
@@ -963,7 +963,7 @@ fn main() {
 
 <details>
   <summary>ruby</summary>
-  
+
 ```ruby
 require 'fiddle'
 
@@ -1058,9 +1058,9 @@ print("test done -------------------")
 
 ![](img/allinone.png)
 
-||||||
-|--|--|--|--|--|
-|加QQ好友|加微信好友|扫码提问|微信打赏|支付宝打赏|
+|||||
+|--|--|--|--|
+|加QQ好友|加微信好友|微信打赏|支付宝打赏|
 
 
 
